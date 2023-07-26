@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akhil ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil ." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhil-16b396201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil ." height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14652700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14652700" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akhil android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhil android" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akhilandroid7956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhil android" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
