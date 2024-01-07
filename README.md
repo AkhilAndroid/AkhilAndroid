@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Crime-Detection-using-Machine-Learning](https://github.com/AkhilAndroid/Crime-Detection-using-Machine-Learning)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Computer Vision**
 
 - 📫 How to reach me **akhilarul324@gmail.com**
 
